@@ -10,9 +10,9 @@ This is a cool project inspired by a Instagram reel which i found great to make 
 
 1x PCB Custom Made $20
 
-1x [ Battery ](https://sharvielectronics.com/product/3-7v-1500mah-lithium-polymer-lipo-rechargeable-battery-model-kp-503548/?srsltid=AfmBOopyXjz7G-mfkwz-K-4Pyum_oVMmF9zbMvHpHJ0jdoWNAKr49VVXVOA) $4
+1x [ Battery ](https://sharvielectronics.com/product/3-7v-1500mah-lithium-polymer-lipo-rechargeable-battery-model-kp-503548/?srsltid=AfmBOopyXjz7G-mfkwz-K-4Pyum_oVMmF9zbMvHpHJ0jdoWNAKr49VVXVOA) $5
 
-1x [Slider Side Power Switch](https://www.digikey.in/en/products/detail/e-switch/EG2315/101778?msclkid=ebc0e80136a31e44595e81308db51dc9&gclid=ebc0e80136a31e44595e81308db51dc9&gclsrc=3p.ds&gad_source=7&gad_campaignid=23202615318) $0.2
+1x [Slider Side Power Switch](https://www.digikey.in/en/products/detail/e-switch/EG2315/101778?msclkid=ebc0e80136a31e44595e81308db51dc9&gclid=ebc0e80136a31e44595e81308db51dc9&gclsrc=3p.ds&gad_source=7&gad_campaignid=23202615318) $1
 
 3D Printed Case - By Printing Legion
 
