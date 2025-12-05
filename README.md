@@ -20,6 +20,12 @@ This is a cool project inspired by a Instagram reel which i found great to make 
 
 <img width="614" height="335" alt="image" src="https://github.com/user-attachments/assets/3c1078ed-9bff-4880-b31c-c60d453ccef6" />
 
+<img width="1530" height="898" alt="Assembly Image" src="https://github.com/user-attachments/assets/d44e6619-3e2e-46ad-b08c-fd60cea6ca8a" />
+
+<img width="1539" height="902" alt="Ass 2" src="https://github.com/user-attachments/assets/2bbf1098-9e65-40a2-95c6-703e6d7548a8" />
+
+
+
 <img width="1126" height="691" alt="image" src="https://github.com/user-attachments/assets/6f6d1fb7-05d5-4103-a8d8-fe767a735efc" />
 
 <img width="1491" height="869" alt="image" src="https://github.com/user-attachments/assets/3e45a59c-3292-483f-97fc-c084bed3114e" />
@@ -37,6 +43,8 @@ This is a cool project inspired by a Instagram reel which i found great to make 
 This PCB Costed Me Around $20 with Shipping of $13.5
 
 <img width="1193" height="618" alt="image" src="https://github.com/user-attachments/assets/4c7348c5-2c73-44df-89d8-f81f4f3abdc7" />
+
+
 
 
 
