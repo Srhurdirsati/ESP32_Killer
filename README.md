@@ -8,13 +8,15 @@ This is a cool project inspired by a Instagram reel which i found great to make 
 
 2x [nrf24L01 Antenna Modules ](https://www.bing.com/ck/a?!&&p=cd1ade76bc530801544db6ba4df714a36843773852f397651eed925e68455aeeJmdvaWQ9MTcyMzUxODM3MDQ4JmltdHM9MTc2NDg2NjQ5NSZyZ3VpZD0yNmNjZDhhYi00M2ZjLTQzOGQtYjZlOC0yNzE5NjJlZWM1MzUmbWt0PWVuLWlu&ptn=2&hsh=4&fclid=18b93560-d130-11f0-9228-08fba50b8948&u=a1aHR0cHM6Ly9iaW5nLmNvbS9hbGluay9saW5rP3VybD1odHRwcyUzYSUyZiUyZnpib3RpYy5pbiUyZnByb2R1Y3QlMmYyLTRnLW5yZjI0bDAxcGFsbmEtd2lyZWxlc3MtbW9kdWxlLXdpdGgtYW50ZW5uYSUyZiZzb3VyY2U9YmluZ3Nob3BwaW5nJmg9ZWtFRVdkb1FlanUxMHlZczFqY09KcTc4bUNhUWtYYmRuZ1dxdWglMmZTNWtnJTNkJm1zb2NraWQ9MThiOTM1NjBkMTMwMTFmMDkyMjgwOGZiYTUwYjg5NDg&ntb=1) - $5
 
-1x PCB Custom Made $20
+1x PCB Custom Made $14
 
 1x [ Battery ](https://sharvielectronics.com/product/3-7v-1500mah-lithium-polymer-lipo-rechargeable-battery-model-kp-503548/?srsltid=AfmBOopyXjz7G-mfkwz-K-4Pyum_oVMmF9zbMvHpHJ0jdoWNAKr49VVXVOA) $5
 
 1x [Slider Side Power Switch](https://www.digikey.in/en/products/detail/e-switch/EG2315/101778?msclkid=ebc0e80136a31e44595e81308db51dc9&gclid=ebc0e80136a31e44595e81308db51dc9&gclsrc=3p.ds&gad_source=7&gad_campaignid=23202615318) $1
 
 3D Printed Case - By Printing Legion
+
+All Total = $33.5 With Shipping
 
 ## Images 
 
